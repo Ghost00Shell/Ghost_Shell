@@ -1,4 +1,4 @@
-# <html> 
+<html> 
     <center>
     <body style="background-color:black;">
     <h1 style="color:red">Ghost_Shell</h1>
