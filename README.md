@@ -1,9 +1,8 @@
 <html> 
     <center>
-    body {
-        background-color: #000000
-         }
-    <h1 color:red;>Ghost_Shell</h1>
+    <p style="color:red">
+    <body style="background-color:black;">
+    <h1>Ghost_Shell</h1>
     <img src="https://i.ibb.co/SmLz9Fr/GHOOST.png">
 <body> 
 <script>
