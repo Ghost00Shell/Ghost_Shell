@@ -9,4 +9,3 @@
     alert("Hacked By Ghost Shell");
 </script>
 </body>
-</html>
