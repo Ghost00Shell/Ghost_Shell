@@ -2,7 +2,7 @@
     <center>
     <p style="color:red">
     <body style="background-color:black;">
-    <h1>Ghost_Shell</h1>
+    <p>Ghost_Shell</p>
     <img src="https://i.ibb.co/SmLz9Fr/GHOOST.png">
 <body> 
 <script>
