@@ -1,1 +1,1 @@
-Ghost_Shell.github.io
+GhostShell.github.io
