@@ -8,7 +8,7 @@ p    {color: red;}
 </style>
 </head>    
 <h1 style="red";>Ghost Shell</h1>   
-  <img src=https://drive.google.com/file/d/18FIwP4hddf5nynzawTZd1mqtX7CxhN4u/view>
+  <img src=https://i.ibb.co/SmLz9Fr/GHOOST.png>
 <body>    
 <script>
     alert("Hacked By Ghost Shell");
