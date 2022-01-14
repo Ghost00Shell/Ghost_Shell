@@ -17,9 +17,9 @@
 </script>
   <style>
         .footer
-        {   background:#333;
+        {   background:black;
             text-align:center;
-            color:#00ff00;
+            color:red;
             padding:20px 0
         }
     </style>
