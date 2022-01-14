@@ -15,9 +15,15 @@
 <script>
     alert("Hacked By Ghost Shell");
 </script>
-    <style color=red;>
-   <div class="Footer">
+  <style>
+        .footer
+        {   background:#333;
+            text-align:center;
+            color:#00ff00;
+            padding:20px 0
+        }
+    </style>
+     <div class="Footer">
         Copyrights &copy; 2021 All Rights Reserved To GHOST SHELL &reg; Team
-   </div>
-    </style>   
+    </div> 
 </body>
