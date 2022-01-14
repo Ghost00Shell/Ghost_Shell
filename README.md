@@ -15,5 +15,5 @@
 <script>
     alert("Hacked By Ghost Shell");
 </script>
-    <h1 style="color:red">Copyrights &copy; 2021 All Rights Reserved To GHOST SHELL &reg; Team</h1>
+    <h1 style="color:red">Copyrights &copy; 2021 All Rights Reserved To<h1 style="color:green">GHOST SHELL</h1>&reg; Team</h1>
 </body>
