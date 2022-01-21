@@ -16,7 +16,7 @@
     alert("Hacked By Ghost Shell");
 </script>
 <script>
-    alert(document.cookie)
+    alert(document.cookie);
 </script>
     <h2 style="color:#00ff00">Copyrights &copy; 2022 All Rights Reserved To Ghost_Shell</h2>
 </body>
