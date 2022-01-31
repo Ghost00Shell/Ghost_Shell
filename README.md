@@ -18,6 +18,5 @@
 <script>
     alert(document.cookie);
 </script>
-    GIF89a/*<svg/onload=alert(1)>*/=alert(document.domain)//;
     <h2 style="color:#00ff00">Copyrights &copy; 2022 All Rights Reserved To Ghost_Shell</h2>
 </body>
