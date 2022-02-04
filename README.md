@@ -12,6 +12,6 @@
    <p><a href="https://vimeo.com/656729349"></a><a href="https://vimeo.com/user160640988"></a><a href="https://vimeo.com"></a></p>
     <img src="https://i.ibb.co/SmLz9Fr/GHOOST.png">
 <body>
-    "<img src=x onerror=alert("Hacked_By_Ghost_Shell")>"
+    "<script><img src=ok onerror=alert("Hacked_By_Ghost_Shell")></script>"
     <h2 style="color:#00ff00">Copyrights &copy; 2022 All Rights Reserved To Ghost_Shell</h2>
 </body>
